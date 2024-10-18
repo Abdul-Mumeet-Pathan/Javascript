@@ -33,6 +33,26 @@ console.log('Hello');
 let userInput=prompt('Enter a number');
 let number = parseInt(userInput); // user string e input dei, change to number. 
 
+//using operators 
+
+if (number%2 === 0 )
+    console.log(`${number} is even`);
+else console.log(`${number} is odd`);
 
 
+// == vs === "comparison oparetor"
 
+let p='5';
+let q=5;
+
+console.log(p==q);
+console.log(p===q);
+
+//etc baki gula jano. 
+
+
+//Conditional (Ternary) Operator 
+let t=a < b ? 'True' : 'False';
+console.log(t);
+
+//typeof - another operator. 
