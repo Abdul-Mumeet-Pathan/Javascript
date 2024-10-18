@@ -28,3 +28,11 @@ console.log('Hello');
 
 //Comment 
 /* Multi Line Comment */
+
+// taking user entry 
+let userInput=prompt('Enter a number');
+let number = parseInt(userInput); // user string e input dei, change to number. 
+
+
+
+
