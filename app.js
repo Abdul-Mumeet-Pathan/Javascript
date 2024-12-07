@@ -56,3 +56,5 @@ let t=a < b ? 'True' : 'False';
 console.log(t);
 
 //typeof - another operator. 
+
+
